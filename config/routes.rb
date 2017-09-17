@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
 
-root to: 'static#homepage'
+  resources :posts
+  root to: 'static#homepage'
 end
