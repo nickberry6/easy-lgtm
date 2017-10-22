@@ -7,4 +7,6 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-Post.create([{title: 'First LGTM', image_url: 'https://goo.gl/images/Q7oS9F'}])
+Post.create([{title: 'Water LGTM', image_url: 'http://eskipaper.com/images/cool-nature-1.jpg'}])
+Post.create([{title: 'Mountain LGTM', image_url: 'http://f9vision.com/wp-content/uploads/2014/06/Download-Cool-Nature-Background-Picture.jpg'}])
+Post.create([{title: 'Field', image_url: 'http://img.xcitefun.net/users/2010/08/209107,xcitefun-cool-nature-wallpapers-1.jpg'}])
